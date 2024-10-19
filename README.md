@@ -28,7 +28,10 @@ TierOverflowLib is a library mod for **Satisfactory** that extend the game by ad
 ## Manual Installation (Not recommended, use [Satisfactory Mod Manager](https://ficsit.app/))
 1. Download the mod from the [mod page](https://ficsit.app/mod/TierOverflowLib).
 2. Open the downloaded file as a zip with Winrar or 7-Zip:
-3. Open the folder coresponding to your OS.
+3. Open the folder coresponding to your situation.
+  - Windows or Linux client : `Windows`
+  - Windows Dedicated Server : `WindowsServer` (Not tested on server)
+  - Linux Dedicated Server : `LinuxServer` (Not tested on server)
 4. Go in the install directory of the game (eg; C:\Program Files (x86)\Steam\steamapps\common\Satisfactory) then in it's mod folder (.\Satisfactory\FactoryGame\Mods) and create a new folder named "TierOverflowLib".
 5. Drop the content of the folder you opened in the step 3, inside of this new TierOverflowLib folder.
 6. Ensure you installed SML as well.
