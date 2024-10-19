@@ -46,7 +46,7 @@ bool UTierOverflowLib_BPNodes::ApplyPhaseSimple(AFGGamePhaseManager* phaseManage
 
 	if (newPhase)
 	{
-		newPhase->mDisplayName = FText::FromString(!phaseName.IsEmpty() ? phaseName : FString(maxTierNumber + "-tier"));
+		newPhase->mDisplayName = FText::FromString(!phaseName.IsEmpty() ? phaseName : FString::Printf(TEXT("%d%s"), maxTierNumber, *"-tier"));
 		newPhase->mLastTierOfPhase = maxTierNumber;
 		newPhase->mPriority = .0f;
 		newPhase->mCosts = TArray<FItemAmount>();
