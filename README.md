@@ -23,7 +23,7 @@ TierOverflowLib is a library mod for **Satisfactory** that extend the game by ad
 - **Dynamic Tier Addition**: Enables adding new tiers beyond the default game limit.
 - **Unlock Mechanisms**: Unlock new tiers using a method call or a Blueprint node.
 
-![GameplayScreenshot1](https://raw.githubusercontent.com/HolographicWings/TierOverflowLib/refs/heads/main/Screenshots/WEBP/GameplayScreenshot1.webp)
+![GameplayScreenshot2](https://raw.githubusercontent.com/HolographicWings/TierOverflowLib/refs/heads/main/Screenshots/WEBP/GameplayScreenshot2.webp)
 
 ## Manual Installation (Not recommended, use [Satisfactory Mod Manager](https://ficsit.app/)
 1. Download the mod from the [mod page](https://ficsit.app/mod/TierOverflowLib).
