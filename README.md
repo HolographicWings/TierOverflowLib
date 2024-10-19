@@ -46,7 +46,7 @@ To add a new tier to the game:
 
 1. Simply create a new schematic in your mod and put it the TechTier int of your choice.
   ![SchematicTechTier](https://raw.githubusercontent.com/HolographicWings/TierOverflowLib/refs/heads/main/Screenshots/WEBP/SchematicTechTier.webp)
-2. Add the schematic in your mod's GameWorldModule as on the modding doc
+2. Add the schematic in your mod's GameWorldModule as on the modding docs.
 
 ### Unlocking Tiers
 
