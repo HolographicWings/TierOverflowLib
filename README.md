@@ -79,7 +79,6 @@ Unlock new tiers using one of the following methods:
 ## Future Features
 
 - **Improved Ore Wheel**: Adding a similar pages system for the ressources scan wheel if there are too many ores.
-- **Configurable Scroller**: Adding a setting to always show the scroller, even if there are no new tiers.
 - **Server Compatibility Testing**: Ensure the mod works seamlessly in multiplayer environments.
 - **Console & Chat Commands**: Introduce commands to interact with the mod features.
 - **Milestone Integration**:
