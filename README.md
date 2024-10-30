@@ -16,6 +16,7 @@ TierOverflowLib is a library mod for **Satisfactory** that extend the game by ad
   - [Blueprint Nodes](#blueprint-nodes)
 - [Future Features](#future-features)
 - [Support](#support)
+- [Credits](#credits)
 
 ## Features
 
@@ -84,3 +85,7 @@ For support, questions, or suggestions:
 
 - **GitHub Issues**: [Link to GitHub Issues](https://github.com/HolographicWings/TierOverflowLib/issues)
 - **Discord**: Join the [Modding Discord](https://discord.gg/fPPqfY9j) and ping me from my username 'HolographicWings' (on the proper channels tho please)
+
+## Credits
+
+Thanks to "th3fanbus" and "robb4" for helped me in numerous ways.
