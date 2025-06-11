@@ -1,17 +1,19 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
+	"GameVersion": ">=416835",
 	"FriendlyName": "Tier Overflow Lib",
 	"Description": "Add a way to scroll tiers in the HUB Terminal",
 	"Category": "Modding",
-	"CreatedBy": "HolographicWings",
+	"CreatedBy": "Acxd, HolographicWings",
 	"CreatedByURL": "https://github.com/HolographicWings/TierOverflowLib",
 	"DocsURL": "https://ficsit.app/mod/TierOverflowLib",
 	"MarketplaceURL": "",
-	"SupportURL": "https://github.com/HolographicWings/TierOverflowLib/issues",
+	"SupportURL": "https://discord.gg/pz2U6FvMat",
 	"CanContainContent": true,
-	"IsBetaVersion": true,
+	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"Modules": [
@@ -24,10 +26,8 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.1",
+			"Enabled": true
 		}
-	],
-	"SemVersion": "1.0.1",
-	"GameVersion": ">=365306"
+	]
 }
